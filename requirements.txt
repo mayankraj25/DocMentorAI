@@ -1,0 +1,13 @@
+# requirements.txt
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+transformers
+sentence-transformers
+chromadb
+python-docx
+pypdf
+python-dotenv
+Pillow
